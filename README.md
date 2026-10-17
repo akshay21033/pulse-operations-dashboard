@@ -3,7 +3,7 @@
 An internal ops dashboard for monitoring shipments, working an exception queue and drilling into a shipment.
 Built with **Next.js (App Router) + TypeScript (strict)** against a deliberately flaky mock backend.
 
-> **Walkthrough video:** _add your Loom link here before submitting_
+> **Walkthrough video:** _ https://www.loom.com/share/01d2c25ba4d944b7aba1c4cc76ddda72
 
 ## Run it
 
